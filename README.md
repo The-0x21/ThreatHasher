@@ -19,7 +19,6 @@
 ![Version](https://img.shields.io/badge/version-2.0-cc2200?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.8+-cc2200?style=flat-square&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-linux%20%7C%20macos-555?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-555?style=flat-square)
 ![Security](https://img.shields.io/badge/offensive-security-cc2200?style=flat-square)
 
 ---
