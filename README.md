@@ -148,4 +148,4 @@ ThreatHasher > 1
 
 ---
 
-`threathsher v2.0` — `nmap + shodan recon tool` — `created by 0x21`
+`threathsher v2.0`  — `created by 0x21`
