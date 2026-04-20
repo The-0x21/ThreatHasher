@@ -133,17 +133,4 @@ ThreatHasher > 1
 
 ---
 
-## // FLUJO DE USO RECOMENDADO
-
-```
-[01] Configurar Shodan API Key en menu [5]
-[02] Nmap rapido para identificar puertos abiertos
-[03] Nmap vuln sobre hosts de interes
-[04] Shodan lookup para obtener CVEs historicos
-[05] DNS para resolver hostnames y ampliar perimetro
-[06] Exportar resultados en JSON + CSV + TXT
-```
-
----
-
 `threathasher v2.0`  — `created by 0x21`
