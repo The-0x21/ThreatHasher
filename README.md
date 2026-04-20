@@ -148,18 +148,4 @@ ThreatHasher > 1
 
 ---
 
-## // AVISO LEGAL
-
-```
-ADVERTENCIA
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Esta herramienta es exclusivamente para uso etico y autorizado.
-Escanea unicamente sistemas sobre los que dispones de permiso
-explicito por escrito. El uso no autorizado puede ser constitutivo
-de delito segun la legislacion vigente en tu pais.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
 `threathsher v2.0` — `nmap + shodan recon tool` — `created by 0x21`
