@@ -146,4 +146,4 @@ ThreatHasher > 1
 
 ---
 
-`threathsher v2.0`  — `created by 0x21`
+`threathasher v2.0`  — `created by 0x21`
